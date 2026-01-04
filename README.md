@@ -11,6 +11,10 @@ POC demonstrando como o framework **[Parlant](https://www.parlant.io/)** facilit
 
 ## Resultados do POC
 
+### Jornada Criada
+
+![Jornada](img/jornada.png)
+
 ### Consulta de pré-aprovado (caminho feliz)
 
 O agente guia o usuário pela jornada prevista, solicitando apenas as informações necessárias e respondendo dentro das regras configuradas.
@@ -30,6 +34,8 @@ Mesmo quando o usuário tenta obter algo que não foi previsto, o agente mantém
 Outro fluxo mais completo também se manteve consistente com as diretrizes configuradas.
 
 ![Jornada alternativa](img/exemplo_outro_contexto.png)
+
+
 
 ## Referências
 
